@@ -44,6 +44,8 @@
     <br />
     <a href="#demo">View Demo</a>
     ·
+    <a href="https://github.com/Stikinit/NuriCheat/blob/master/DocsAndResources/NuriCheatExplanationDocument.pdf">In-Depth Document (Italian)</a>
+    ·
     <a href="https://github.com/Stikinit/NuriCheat/issues">Report Bug</a>
     ·
     <a href="https://github.com/Stikinit/NuriCheat/issues">Request Feature</a>
