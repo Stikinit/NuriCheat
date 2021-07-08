@@ -74,7 +74,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -91,7 +90,7 @@ These requirements make it a three step project:
 
 <span id="demo">The following is a video of the typical usage of the app:</span>
 <br/><br/>
-<img src="https://github.com/Stikinit/NuriCheat/blob/master/DocsAndResources/NuriCheatDemo.gif" width="22%" height="22%" alt="EditorGIF"/>
+<img src="https://github.com/Stikinit/NuriCheat/blob/master/DocsAndResources/NuriCheatDemo.gif" width="25%" height="25%" alt="EditorGIF"/>
 
 
 
